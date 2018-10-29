@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tayang Sekarang</string>
+    <string name="movie_popularity">Movie Popularity</string>
+    <string name="_0_0">0.0</string>
+    <string name="movie_sinopsis">Movie Sinopsis</string>
+    <string name="foto">Foto</string>
+    <string name="popularity">Popularity</string>
+    <string name="sinopsis_film">Sinopsis Film</string>
+    <string name="movie_title">Movie Title</string>
+</resources>
